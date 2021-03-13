@@ -1,0 +1,7 @@
+
+persoane pana la 30:
+Gigel Batman
+
+persoane cu varsta peste 50:
+George Georgescu
+Vasile Vasilescu
